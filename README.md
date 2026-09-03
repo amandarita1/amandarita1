@@ -1,16 +1,32 @@
-## Hi there 👋
+# 📊 Portfólio Profissional | Logística, Dados e Business Intelligence
 
-<!--
-**amandarita1/amandarita1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Eu sou Amanda, estudante de Logística e em formação na área de  Dados e Business Intelligence.
 
-Here are some ideas to get you started:
+Tenho experiência prática em rotinas logísticas e administrativas e venho desenvolvendo conhecimentos em Excel, Power BI, SQL e Python, com foco em análise de dados, indicadores e melhoria de processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Portfólio de Projetos
+
+Neste repositório apresento projetos desenvolvidos ao longo da minha trajetória de estudos, unindo Logística, análise de dados e tecnologia.
+
+### 📄 Portfólio completo
+
+➡️ [Visualizar Portfólio de Projetos](./PORTIFÓLIO%20DE%20PROJETOS%20AMANDA%20RITA.pdf)
+
+## 🛠️ Conhecimentos
+
+- Excel
+- Power BI
+- SQL
+- Python
+- Análise de Dados
+- Visualização de Dados
+- Indicadores
+- Logística e Processos
+- Business Intelligence
+
+## 🎯 Objetivo profissional
+
+Busco oportunidades em que possa aplicar meus conhecimentos de Logística, Dados e Tecnologia, contribuindo para a melhoria de processos e tomada de decisões baseada em informações.
+
+
+📌 Em constante aprendizado e desenvolvimento profissional.
