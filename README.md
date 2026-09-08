@@ -10,7 +10,7 @@ Neste repositório apresento projetos desenvolvidos ao longo da minha trajetóri
 
 ### 📄 Portfólio completo
 
-➡️ [Visualizar Portfólio de Projetos]([Visualizar Portfólio de Projetos](PORTFOLIO_DE_PROJETOS_AMANDA_GITHUB.pdf))
+➡️ [Visualizar Portfólio de Projetos]([Visualizar Portfólio de Projetos](https://github.com/amandarita1/amandarita1/blob/main/PORTFOLIO_DE_PROJETOS_AMANDA_GITHUB.pdf?raw=true))
 
 ## 🛠️ Conhecimentos
 
