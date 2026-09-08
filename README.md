@@ -10,7 +10,7 @@ Neste repositório apresento projetos desenvolvidos ao longo da minha trajetóri
 
 ### 📄 Portfólio completo
 
-➡️ [Visualizar Portfólio de Projetos](./PORTIFÓLIO%20DE%20PROJETOS%20AMANDA%20RITA.pdf)
+➡️ [Visualizar Portfólio de Projetos]([Visualizar Portfólio de Projetos](./PORTFOLIO_DE_PROJETOS_AMANDA_GITHUB.pdf))
 
 ## 🛠️ Conhecimentos
 
